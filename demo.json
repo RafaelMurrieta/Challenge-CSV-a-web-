@@ -1,0 +1,143 @@
+[
+    {
+      "Nombre": "Juan",
+      "Edad": 25,
+      "Correo electrónico": "juan@example.com",
+      "Teléfono": "555-1234",
+      "Ciudad": "Ciudad de México"
+    },
+    {
+      "Nombre": "María",
+      "Edad": 30,
+      "Correo electrónico": "maria@example.com",
+      "Teléfono": "555-5678",
+      "Ciudad": "Buenos Aires"
+    },
+    {
+      "Nombre": "Carlos",
+      "Edad": 28,
+      "Correo electrónico": "carlos@example.com",
+      "Teléfono": "555-9012",
+      "Ciudad": "Madrid"
+    },
+    {
+      "Nombre": "Ana",
+      "Edad": 22,
+      "Correo electrónico": "ana@example.com",
+      "Teléfono": "555-3456",
+      "Ciudad": "Lima"
+    },
+    {
+      "Nombre": "Luis",
+      "Edad": 35,
+      "Correo electrónico": "luis@example.com",
+      "Teléfono": "555-7890",
+      "Ciudad": "Bogotá"
+    },
+    {
+      "Nombre": "Laura",
+      "Edad": 29,
+      "Correo electrónico": "laura@example.com",
+      "Teléfono": "555-2345",
+      "Ciudad": "Santiago"
+    },
+    {
+      "Nombre": "Pedro",
+      "Edad": 27,
+      "Correo electrónico": "pedro@example.com",
+      "Teléfono": "555-6789",
+      "Ciudad": "Lima"
+    },
+    {
+      "Nombre": "Sofía",
+      "Edad": 31,
+      "Correo electrónico": "sofia@example.com",
+      "Teléfono": "555-1234",
+      "Ciudad": "Madrid"
+    },
+    {
+      "Nombre": "Diego",
+      "Edad": 26,
+      "Correo electrónico": "diego@example.com",
+      "Teléfono": "555-5678",
+      "Ciudad": "Ciudad de México"
+    },
+    {
+      "Nombre": "Lucía",
+      "Edad": 24,
+      "Correo electrónico": "lucia@example.com",
+      "Teléfono": "555-9012",
+      "Ciudad": "Buenos Aires"
+    },
+    {
+      "Nombre": "Andrés",
+      "Edad": 33,
+      "Correo electrónico": "andres@example.com",
+      "Teléfono": "555-3456",
+      "Ciudad": "Madrid"
+    },
+    {
+      "Nombre": "Valentina",
+      "Edad": 28,
+      "Correo electrónico": "valentina@example.com",
+      "Teléfono": "555-7890",
+      "Ciudad": "Lima"
+    },
+    {
+      "Nombre": "Martín",
+      "Edad": 32,
+      "Correo electrónico": "martin@example.com",
+      "Teléfono": "555-2345",
+      "Ciudad": "Bogotá"
+    },
+    {
+      "Nombre": "Camila",
+      "Edad": 23,
+      "Correo electrónico": "camila@example.com",
+      "Teléfono": "555-6789",
+      "Ciudad": "Santiago"
+    },
+    {
+      "Nombre": "David",
+      "Edad": 29,
+      "Correo electrónico": "david@example.com",
+      "Teléfono": "555-1234",
+      "Ciudad": "Ciudad de México"
+    },
+    {
+      "Nombre": "Isabela",
+      "Edad": 26,
+      "Correo electrónico": "isabela@example.com",
+      "Teléfono": "555-5678",
+      "Ciudad": "Buenos Aires"
+    },
+    {
+      "Nombre": "Fernando",
+      "Edad": 34,
+      "Correo electrónico": "fernando@example.com",
+      "Teléfono": "555-9012",
+      "Ciudad": "Madrid"
+    },
+    {
+      "Nombre": "Paula",
+      "Edad": 25,
+      "Correo electrónico": "paula@example.com",
+      "Teléfono": "555-3456",
+      "Ciudad": "Lima"
+    },
+    {
+      "Nombre": "Roberto",
+      "Edad": 27,
+      "Correo electrónico": "roberto@example.com",
+      "Teléfono": "555-7890",
+      "Ciudad": "Bogotá"
+    },
+    {
+      "Nombre": "Ana",
+      "Edad": 22,
+      "Correo electrónico": "ana@example.com",
+      "Teléfono": "555-2345",
+      "Ciudad": "Santiago"
+    }
+  ]
+  
